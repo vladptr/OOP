@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\LAB1OP\LAB1OP\bin\Debug\LAB1OP.exe.config
+C:\Users\Admin\source\repos\LAB1OP\LAB1OP\bin\Debug\LAB1OP.exe
+C:\Users\Admin\source\repos\LAB1OP\LAB1OP\bin\Debug\LAB1OP.pdb
+C:\Users\Admin\source\repos\LAB1OP\LAB1OP\obj\Debug\LAB1OP.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LAB1OP\LAB1OP\obj\Debug\LAB1OP.exe
+C:\Users\Admin\source\repos\LAB1OP\LAB1OP\obj\Debug\LAB1OP.pdb
